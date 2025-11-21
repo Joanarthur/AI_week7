@@ -9,6 +9,20 @@ This project analyzes racial bias in the COMPAS (Correctional Offender Managemen
 - Visualize disparities in false positive/negative rates
 - Provide remediation recommendations for fairer algorithms
 
+## 📚 Theoretical Foundation
+This practical implementation builds upon comprehensive theoretical research in AI ethics, covering:
+
+Algorithmic bias and fairness metrics
+
+Ethical principles in AI (justice, non-maleficence, autonomy, transparency)
+
+Regulatory frameworks (GDPR, AI accountability)
+
+Bias mitigation strategies and fairness tools
+
+The complete theoretical assignment exploring these foundational concepts can be accessed here:
+[AI Ethics Theoretical Assignmen](https://us.docworkspace.com/d/sIPDw-LxPy6uByQY?sa=601.1037)t
+
 ## 🛠️ Technologies Used
 - **Python 3.x**
 - **AI Fairness 360** (IBM's fairness toolkit)
